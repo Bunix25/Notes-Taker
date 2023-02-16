@@ -39,5 +39,5 @@ https://evening-harbor-89511.herokuapp.com/
 
 ## Contact
 
-- [GitHub]( https://github.com/Bunix25'GitHub')
+- [GitHub]( https://github.com/Bunix25)
 - [Email](svattt7@gmail.com.com 'Email')
